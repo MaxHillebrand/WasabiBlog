@@ -4,4 +4,4 @@ date: 2020-05-13 13:30:00
 
 # First post
 
-much wow, such awesome!
+much wow, such super awesome!
